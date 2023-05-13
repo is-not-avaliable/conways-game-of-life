@@ -2,21 +2,26 @@
 ## bether than CS:GO
 
 <br/>
+
 ## Instalacion
+
 - clonar el repositorio
 ```bash
 git clone https://github.com/is-not-avaliable/conways-game-of-life/
 ```
+
 - moverse al repo e instalar los requisitos
 ```bash
 cd conways-game-of-life/
 ...
 pip3 install -r requirements.txt
 ```
+
 - correr el codigo
 ```bash
 python3 main.py
 ```
+
 <br/>
 
 ## Reglas
